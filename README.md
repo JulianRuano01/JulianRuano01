@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **JulianRuano01/JulianRuano01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👋 Hi, I'm Julian Ruano
+
+🎓 Economics, Datascience, and Business Ad major interested in politics.  
+💡 Currently learning: Productivity, communication, and trying to make cool projects for my friends and the greater community.  
+📘 Projects I'm working on:
+- **Learning to document** – implementing the stuff I learned at Augustana University and other passions of mine.
+- **Learnin Journal** – documenting what I learn in coding and AI.
+
+📫 How to reach me: [Email](mailto:julianruano11@gmail.com)
